@@ -72,7 +72,5 @@ Each table is generated according to a documented strategy:
 
 All temporal fields are guaranteed to be logically valid (e.g., tasks are never completed before creation).
 
----
 
-##  Repository Structure
 
